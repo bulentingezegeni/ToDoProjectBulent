@@ -1,0 +1,17 @@
+        TEST CASES
+
+PO most critical test cases:
+        TC01 user should be able to create a task
+        TC02 user should be able to manage a task
+        TC03 user should be able to delete all tasks which are done
+
+P1 important test cases:
+        TC01 the size of To Do should increase after creating a new task
+        TC02 All button should always show the total size
+        TC03 user should be able to delete a specific task
+
+P2_not very critical test cases:
+        TC01 user should be able to create a task with any char
+        TC02 without clicking a task Done remains empty
+        TC03 user should be able to make a task unchecked
+        TC04 user should verify the page as To Do List page
